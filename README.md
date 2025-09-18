@@ -10,13 +10,13 @@ The goal of this project was to analyze the response times, throughput, and stab
 
 The performance test covers the following end-to-end scenario:
 
-Login – Authenticate with valid admin credentials.
+* Login – Authenticate with valid admin credentials.
 
-Add User – Navigate to Admin → Add User and fill in required details.
+* Add User – Navigate to Admin → Add User and fill in required details.
 
-Save – Submit the form to successfully create the new user.
+* Save – Submit the form to successfully create the new user.
 
-Logout – End the session and return to the login page.
+* Logout – End the session and return to the login page.
 
 **Tools & Technologies**
 
