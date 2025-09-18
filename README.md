@@ -6,9 +6,9 @@ This project focuses on **Performance Testing(load and stress)** of the OrangeHR
  using Apache JMeter.
 The goal of this project was to analyze the response times, throughput, and stability of critical user flows to ensure that the application performs reliably under load.
 
- **Test Scenario**
+ ## Test Scenario
 
-The performance test covers the following end-to-end scenario:
+**The performance test covers the following end-to-end scenario:**
 
 * Login – Authenticate with valid admin credentials.
 
@@ -18,16 +18,16 @@ The performance test covers the following end-to-end scenario:
 
 * Logout – End the session and return to the login page.
 
-**Tools & Technologies**
+## Tools & Technologies
 
 Performance Testing Tool: Apache JMeter
 
 Tested Website: OrangeHRM Demo
 
-**Key Metrics Measured**:
+## Key Metrics Measured:
 
-Response Time
+* Response Time
 
-Throughput
+* Throughput
 
-Error Rate
+* Error Rate
