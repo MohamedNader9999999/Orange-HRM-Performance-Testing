@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on **Performance Testing (load and stress)** of the [OrangeHRM Demo Website](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) using **Apache JMeter**.  
+This project focuses on **Performance Testing (load and stress)** of the [OrangeHRM Website](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) using **Apache JMeter**.  
 The goal of this project was to analyze the **response times**, **throughput**, and **stability** of critical user flows to ensure that the application performs reliably under load.
 
 ## Test Scenario
